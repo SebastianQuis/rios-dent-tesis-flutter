@@ -1,7 +1,6 @@
 # Mi aplicación de tesis
 
-* Con mucho gusto presento mi aplicación de tesis, el cual tiene como objetivo sistematizar los principales procesos de una clínica dental
-* entre ellos la gestión de citas, pacientes e historial clínico. Con esta aplicación se espera:
+* Con mucho gusto presento mi aplicación de tesis, el cual tiene como objetivo sistematizar los principales procesos de una clínica dental entre ellos la gestión de citas, pacientes e historial clínico. Con esta aplicación se espera:
 
   * Reducir el tiempo del registro de citas
   * Disminuir los gastos administrativos en la gestión interna de citas
